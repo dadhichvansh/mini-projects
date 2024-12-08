@@ -27,12 +27,12 @@ The Rock Paper Scissor game is a simple web-based game that allows users to play
 
 ## File Structure
 
-``rock-paper-scissor/
+rock-paper-scissor/
 │
 ├── images            # Images used in the game
 ├── index.html        # Main HTML file for the game
 ├── styles.css        # CSS file for styling the game
-└── app.js            # JavaScript file containing game logic``
+└── app.js            # JavaScript file containing game logic
 
 ## How to Play
 
